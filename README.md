@@ -87,13 +87,13 @@ We welcome contributions to enhance the chatbot further!
 Aman Roy  
 ...
 ## 📌 Future Enhancements
-> Integrate voice interaction using Speech Recognition
+1. Integrate voice interaction using Speech Recognition
 
-> Daily mood tracking and visualization
+2. Daily mood tracking and visualization
 
-> Integration with calendar and notification systems
+3.Integration with calendar and notification systems
 
-> Multilingual support
+4. Multilingual support
 
 ## 📸 Screenshots of UI
 ![Screenshot 2025-05-06 032302](https://github.com/user-attachments/assets/6ef3a0dd-f402-4c9d-8c0d-a9bce55ee0cf)
@@ -105,7 +105,7 @@ Aman Roy
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/ai-mental-health-chatbot.git
+git clone https://github.com/<akhila.84>/ai-mental-health-chatbot.git
 cd ai-mental-health-chatbot
 
 ---
