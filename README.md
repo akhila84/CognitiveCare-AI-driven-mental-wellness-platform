@@ -86,8 +86,19 @@ We welcome contributions to enhance the chatbot further!
 **Team Members / Contributors**  
 Aman Roy  
 ...
-![Screenshot 2025-05-06 032302](https://github.com/user-attachments/assets/6ef3a0dd-f402-4c9d-8c0d-a9bce55ee0cf)
+## 📌 Future Enhancements
+> Integrate voice interaction using Speech Recognition
 
+> Daily mood tracking and visualization
+
+> Integration with calendar and notification systems
+
+> Multilingual support
+
+## 📸 Screenshots of UI
+![Screenshot 2025-05-06 032302](https://github.com/user-attachments/assets/6ef3a0dd-f402-4c9d-8c0d-a9bce55ee0cf)
+![Screenshot 2025-05-05 214252](https://github.com/user-attachments/assets/018c94b6-2d09-492e-aaba-ae43554dd56a)
+ 
 ---
   ## 🚀 Getting Started
 
