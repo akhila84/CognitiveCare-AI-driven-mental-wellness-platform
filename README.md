@@ -59,40 +59,42 @@ especially among youth, students, and underserved populations.
 - **Deployment**: Render / Vercel / Heroku (Optional)
 
 ---
+## 🧪 Testing
 
-##🧪 Testing
+Manual tests are carried out through simulated conversations.  
+Token validation, error handling, and failed login attempts are logged and tracked.
 
--Manual tests are carried out through simulated conversations.
+---
 
--Token validation, error handling, and failed login attempts are logged and tracked.
+## 🤝 Contributing
 
-##🤝 Contributing
+We welcome contributions to enhance the chatbot further!
 
-- We welcome contributions to enhance the chatbot further!
+1. Fork the repository  
+2. Create your branch:  
+   `git checkout -b feature/yourFeature`  
+3. Commit your changes:  
+   `git commit -m 'Add some feature'`  
+4. Push to the branch: 
+5. Create a Pull Request
 
-- Fork the repository
+---
+## ✨ Authors
 
-- Create your branch (git checkout -b feature/yourFeature)
+**Akhila Tejaswi Yandamuri**
 
-Commit your changes (git commit -m 'Add some feature')
+**Team Members / Contributors**  
+Aman Roy  
+...
+![Screenshot 2025-05-06 032302](https://github.com/user-attachments/assets/6ef3a0dd-f402-4c9d-8c0d-a9bce55ee0cf)
 
-Push to the branch (git push origin feature/yourFeature)
+---
+  ## 🚀 Getting Started
 
-Create a Pull Request
+### 1. Clone the repository
 
+```bash
+git clone https://github.com/<your-username>/ai-mental-health-chatbot.git
+cd ai-mental-health-chatbot
 
-
-##✨ Authors
-Akhila Tejaswi Yandamuri
-
-Team Members / Contributors
-Aman Roy. V
-
-##📌 Future Enhancements
-Integrate voice interaction using Speech Recognition
-
-Daily mood tracking and visualization
-
-Integration with calendar and notification systems
-
-Multilingual support
+---
