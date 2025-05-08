@@ -6,6 +6,31 @@
 [![Flask](https://img.shields.io/badge/Backend-Flask-lightgrey)]()
 
 A personalized AI-powered mental health companion that offers empathetic, intelligent, and accessible conversations to help users manage stress, anxiety, and promote emotional well-being.
+This project focuses on the design and development of an AI-powered mental health 
+chatbot aimed at providing accessible, empathetic, and real-time support for 
+individuals facing emotional distress, stress, anxiety, or related psychological 
+challenges. With the rising global concern over mental well-being and limited access 
+to timely professional help, this chatbot serves as a first line of emotional assistance. 
+Built using natural language processing (NLP) and machine learning technologies, 
+the chatbot simulates human-like conversations that are sensitive, confidential, and 
+user-centric. It is available 24/7 and offers an intuitive interface that encourages users 
+to open up in a non-judgmental digital space. 
+Key features include sentiment-aware response generation, secure user 
+authentication using JWT, and a conversational UI designed with React for ease of 
+use. The backend is implemented using Node.js and Express, with MongoDB 
+handling user data securely. The chatbot is capable of understanding context, 
+detecting user sentiment, and adapting its responses accordingly, creating a 
+personalized and emotionally intelligent interaction. 
+Importantly, this tool is not intended to replace professional mental health 
+practitioners, but rather to complement existing systems by offering early-stage 
+support and encouraging users to seek further help if needed. It also offers emotional 
+journaling, check-in reminders, and resources for meditation and stress relief. 
+This project aligns with the United Nations Sustainable Development Goals (SDG 3 – Good Health and Well-being, and SDG 10 – Reduced Inequalities) by promoting 
+mental health accessibility and reducing disparities in care. It demonstrates how 
+technology can be ethically and effectively used to support human well-being. By 
+combining AI capabilities with a compassionate design philosophy, this chatbot has 
+the potential to make a meaningful impact on mental health awareness and support, 
+especially among youth, students, and underserved populations. 
 
 ---
 
