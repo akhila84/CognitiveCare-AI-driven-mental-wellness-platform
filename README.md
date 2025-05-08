@@ -67,14 +67,14 @@ especially among youth, students, and underserved populations.
 ```bash
 git clone https://github.com/<your-username>/ai-mental-health-chatbot.git
 cd ai-mental-health-chatbot
+---
 
-
-🧪 Testing
+##🧪 Testing
 Manual tests are carried out through simulated conversations.
 
 Token validation, error handling, and failed login attempts are logged and tracked.
 
-🤝 Contributing
+##🤝 Contributing
 We welcome contributions to enhance the chatbot further!
 
 Fork the repository
@@ -87,15 +87,15 @@ Push to the branch (git push origin feature/yourFeature)
 
 Create a Pull Request
 
-📜 License
-This project is licensed under the MIT License.
 
-✨ Authors
+
+##✨ Authors
 Akhila Tejaswi Yandamuri
 
 Team Members / Contributors
+Aman Roy. V
 
-📌 Future Enhancements
+##📌 Future Enhancements
 Integrate voice interaction using Speech Recognition
 
 Daily mood tracking and visualization
