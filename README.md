@@ -60,26 +60,19 @@ especially among youth, students, and underserved populations.
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/<your-username>/ai-mental-health-chatbot.git
-cd ai-mental-health-chatbot
----
-
 ##🧪 Testing
-Manual tests are carried out through simulated conversations.
 
-Token validation, error handling, and failed login attempts are logged and tracked.
+-Manual tests are carried out through simulated conversations.
+
+-Token validation, error handling, and failed login attempts are logged and tracked.
 
 ##🤝 Contributing
-We welcome contributions to enhance the chatbot further!
 
-Fork the repository
+- We welcome contributions to enhance the chatbot further!
 
-Create your branch (git checkout -b feature/yourFeature)
+- Fork the repository
+
+- Create your branch (git checkout -b feature/yourFeature)
 
 Commit your changes (git commit -m 'Add some feature')
 
