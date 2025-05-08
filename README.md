@@ -105,7 +105,7 @@ Aman Roy
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<akhila.84>/ai-mental-health-chatbot.git
+git clone https://github.com/<akhila84>/ai-mental-health-chatbot.git
 cd ai-mental-health-chatbot
 
 ---
